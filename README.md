@@ -1,10 +1,6 @@
-# sms-api-sample
+# SMS API
 
-# Full Stack Team Six SMS API - Version 1
-
-[![@fullstackteam6 on Twitter](http://img.shields.io/badge/twitter-%40awsforphp-blue.svg?style=flat)](https://twitter.com/fullstackteam6) 
-
-This is the offcial **SMS API** sample provided by [Full Stack Team Six][full-stack-team-six] to makes it easy for developers to integrate our API in their code.
+This is the offcial **SMS API** sample provided by [Full Stack Team Six](https://fullstackteamsix.com/) to makes it easy for developers to integrate our API in their code.
 
 Jump To:
 * [Getting Started](#Getting-Started)
@@ -70,8 +66,4 @@ If you encounter a bug with `our API` we would like to hear about it.
  
 ## Reach out on social media
 
-* [@fullstackteam6][sdk-twitter] – Follow us on Twitter
-
-##  To learn more visit our Documentation
- 
-[Documentation]: http://fullstackteamsix.com/docs 
+* [@fullstackteam6](www.twitter.com/fullstackteam6) – Follow us on Twitter 

@@ -1,4 +1,4 @@
-# SMS API
+# SMS API - Version 1.0
 
 This is the offcial **SMS API** sample provided by [Full Stack Team Six](https://fullstackteamsix.com/) to makes it easy for developers to integrate our API in their code.
 

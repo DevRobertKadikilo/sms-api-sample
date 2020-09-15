@@ -58,7 +58,7 @@ For general issues regarding the SMS services and their limitations, you may als
 
 ### Opening Issues
 
-If you encounter a bug with `our API` we would like to hear about it. 
+If you encounter a bug with our `API` we would like to hear about it. You can contact us through [here](https://fullstackteamsix.com/contacts.html).
 
 ## Features
 
@@ -66,4 +66,7 @@ If you encounter a bug with `our API` we would like to hear about it.
  
 ## Reach out on social media
 
-* [@fullstackteam6](www.twitter.com/fullstackteam6) – Follow us on Twitter 
+* [Twitter](www.twitter.com/fullstackteam6) – Follow us on Twitter 
+* [Facebook](https://web.facebook.com/fullstackteamsix/) – Follow us on Facebook 
+* [Instagram](https://www.instagram.com/full_stack_team_six/) – Follow us on Instagram 
+* [LinkedIn](https://www.linkedin.com/company/full-stack-team-six) – Follow us on LinkedIn 
